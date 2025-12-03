@@ -1,0 +1,5 @@
+{
+  "name": "NazirBro Gmail Variation Generator",
+  "description": "Generate variations of a Gmail address with different casing and optional numbers.",
+  "requestFramePermissions": []
+}
